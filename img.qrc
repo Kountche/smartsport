@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgtunisie.jpg</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
